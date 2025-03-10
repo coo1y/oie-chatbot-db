@@ -2,3 +2,4 @@
 venv/**/**
 
 OIE Database Backup 26Feb2025/**/**
+test_query_db.py
